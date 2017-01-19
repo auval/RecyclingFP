@@ -1,4 +1,7 @@
 # RecyclingFP
+
+Game Name - Space Recycling
+
 Game story
 Recycling space jet has to collect all the plastic bottle by hitting them and destroy them so they won't destroy our world. 
 There will also be some paper bag, there are the good guys, our recycling space jet should not collect them. 
