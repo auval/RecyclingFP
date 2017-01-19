@@ -2,7 +2,7 @@
 
 Game Name - Space Recycling
 
-<img src="/app/src/main/res/drawable/icon.png" width="50">
+<img src="/app/src/main/res/drawable/icon.png" width="20">
 
 Game story
 Recycling space jet has to collect all the plastic bottle by hitting them and destroy them so they won't destroy our world. 
