@@ -5,6 +5,7 @@ There will also be some paper bag, there are the good guys, our recycling space 
 So basically if our jet touches other character that will be destroyed. So we have to only collect the plastic bottle.
 
 Game rules
-Player ship has to collect the plastic bottle by colliding with them
-If player lets 3 bottle to go, the game over
-If player collect the paper that don't made from plastic the game is over
+
+  Player ship has to collect the plastic bottle by colliding with them
+  If player lets 3 bottle to go, the game over
+  If player collect the paper that don't made from plastic the game is over
