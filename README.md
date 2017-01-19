@@ -2,6 +2,8 @@
 
 Game Name - Space Recycling
 
+<img src="/app/src/main/res/drawable/icon.png" width="50">
+
 Game story
 Recycling space jet has to collect all the plastic bottle by hitting them and destroy them so they won't destroy our world. 
 There will also be some paper bag, there are the good guys, our recycling space jet should not collect them. 
@@ -12,4 +14,5 @@ Game rules :
   1. Player ship has to collect the plastic bottle 
     <img src="/app/src/main/res/drawable/btl.png" width="20">
   2. If player lets 3 bottle to go, the game over
-  3. If player collect the paper that don't made from plastic the game is over
+  3. If player collect the paperbag <img src="/app/src/main/res/drawable/paperbag.png" width="20"> the game is over 
+  <img src="/app/src/main/res/drawable/boom.png" width="20">
