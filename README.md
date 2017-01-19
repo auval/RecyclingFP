@@ -9,6 +9,7 @@ So basically if our jet touches other character that will be destroyed. So we ha
 
 Game rules :
 
-  1. Player ship has to collect the plastic bottle by colliding with them
+  1. Player ship has to collect the plastic bottle 
+    <img src="/app/src/main/res/drawable/btl.png" width="144">
   2. If player lets 3 bottle to go, the game over
   3. If player collect the paper that don't made from plastic the game is over
