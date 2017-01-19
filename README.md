@@ -19,7 +19,7 @@ Game rules :
 
 
 Screen shots
-  1. <img src="/app/src/main/res/drawable/img1.png" width="20">
-  2. <img src="/app/src/main/res/drawable/img3.png" width="20">
-  3. <img src="/app/src/main/res/drawable/img2.png" width="20">
-  4. <img src="/app/src/main/res/drawable/img4.png" width="20">
+  1. <img src="/app/src/main/res/drawable/img1.png" width="200">
+  2. <img src="/app/src/main/res/drawable/img3.png" width="200">
+  3. <img src="/app/src/main/res/drawable/img2.png" width="200">
+  4. <img src="/app/src/main/res/drawable/img4.png" width="200">
