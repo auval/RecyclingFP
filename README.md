@@ -13,7 +13,7 @@ Game rules :
 
   1. Player ship <img src="/app/src/main/res/drawable/player.png" width="20"> has to collect the plastic bottle 
     <img src="/app/src/main/res/drawable/btl.png" width="20">
-  2. If player lets 3 bottle to go, the game over
+  2. If player lets 3 bottle to go, the game over <img src="/app/src/main/res/drawable/boom.png" width="20">
   3. If player collect the paperbag <img src="/app/src/main/res/drawable/paperbag.png" width="20"> the game is over 
   <img src="/app/src/main/res/drawable/boom.png" width="20">
 
