@@ -23,3 +23,6 @@ Screen shots
   2. <img src="/app/src/main/res/drawable/img3.png">
   3. <img src="/app/src/main/res/drawable/img2.png">
   4. <img src="/app/src/main/res/drawable/img4.png">
+  
+<a href="https://docs.google.com/document/d/1jLKaje0FSja7GewFDyTvQAUB_1XBBKO9LJ1bwW2ClFA/edit?usp=sharing">Google Doc</a>
+
