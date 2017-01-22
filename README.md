@@ -26,3 +26,8 @@ Screen shots
   
 <a href="https://docs.google.com/document/d/1jLKaje0FSja7GewFDyTvQAUB_1XBBKO9LJ1bwW2ClFA/edit?usp=sharing">Google Doc</a>
 
+איקון
+<img src="/app/src/main/res/drawable/icon2">
+
+תמונת קידום
+<img src="/app/src/main/res/drawable/spacerecyclingbaner">
