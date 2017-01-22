@@ -30,4 +30,4 @@ Screen shots
 <img src="/app/src/main/res/drawable/icon2.png">
 
 תמונת קידום
-<img src="/app/src/main/res/drawable/spacerecyclingbaner" width="20">
+<img src="/app/src/main/res/drawable/spacerecyclingbaner.jpg">
